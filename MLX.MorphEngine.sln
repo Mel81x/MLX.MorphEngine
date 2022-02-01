@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLX.MorphEngine", "MLX.MorphEngine\MLX.MorphEngine.csproj", "{827D9008-DE4D-4310-952C-AB4CCE1CF73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLX.MorphEngine.Tests", "MLX.MorphEngine.Tests\MLX.MorphEngine.Tests.csproj", "{556F2B6B-64F3-4738-A5C2-1E5167DDFA79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827D9008-DE4D-4310-952C-AB4CCE1CF73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827D9008-DE4D-4310-952C-AB4CCE1CF73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827D9008-DE4D-4310-952C-AB4CCE1CF73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827D9008-DE4D-4310-952C-AB4CCE1CF73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556F2B6B-64F3-4738-A5C2-1E5167DDFA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556F2B6B-64F3-4738-A5C2-1E5167DDFA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556F2B6B-64F3-4738-A5C2-1E5167DDFA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556F2B6B-64F3-4738-A5C2-1E5167DDFA79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C890E438-5316-4B9E-BAEA-6E2B35BDEE09}
+	EndGlobalSection
+EndGlobal
